@@ -1,3 +1,5 @@
+![My photo](/assets/images/markdown/1664130380872.jpg)
+
 #*Dmitry Derbeev*
 * Contacts for communication
   * Email - dimade7859@gmail.com
