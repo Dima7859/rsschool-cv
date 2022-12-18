@@ -5,7 +5,6 @@
   * Email - dimade7859@gmail.com
   * Skupe - dimaderbeev , dimade7859@hotmail.com
   * Linkedin - https://www.linkedin.com/in/dmitry-derbeev-13163721b/
-  * Phone number - +375295073292
   * Github - https://github.com/Dima7859
 * I speak JavaScript, I also know HTML, CSS and GIT. Successfully completed the basic web course and advanced development course at it-academy.
 * Code examples
